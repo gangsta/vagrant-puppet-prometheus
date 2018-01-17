@@ -1,0 +1,15 @@
+[submodule "puppet/modules/prometheus"]
+	path = puppet/modules/prometheus
+	url = https://github.com/voxpupuli/puppet-prometheus.git
+[submodule "puppet/modules/archive"]
+	path = puppet/modules/archive
+	url = https://github.com/voxpupuli/puppet-archive.git
+[submodule "puppet/modules/stdlib"]
+	path = puppet/modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "puppet/modules/systemd"]
+	path = puppet/modules/systemd
+	url = https://github.com/camptocamp/puppet-systemd.git
+[submodule "puppet/modules/firewalld"]
+	path = puppet/modules/firewalld
+	url = https://github.com/crayfishx/puppet-firewalld.git

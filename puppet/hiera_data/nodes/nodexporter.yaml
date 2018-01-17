@@ -1,0 +1,7 @@
+---
+role:
+    - roles::nodexporter
+    - prometheus::node_exporter
+
+
+prometheus::node_exporter::version: '0.15.2'

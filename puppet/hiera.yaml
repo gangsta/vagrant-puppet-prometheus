@@ -1,0 +1,11 @@
+---
+:hierarchy:
+  - "nodes/%{::hostname}"
+  - "environments/%{::environment}"
+  - common
+
+:backends:
+  - yaml
+
+:yaml:
+  :datadir: '/var/lib/hiera'
