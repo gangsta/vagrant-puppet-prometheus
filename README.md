@@ -45,8 +45,3 @@ vagrant destroy -f
 ```
 vagrant provision
 ```
-
-## Info
-
-Vagrant version will not work until https://github.com/voxpupuli/puppet-prometheus/pull/144 is merged .
-you can change prometheus module from voxpupuli/puppet-prometheus to kalinux/puppet-prometheus.
